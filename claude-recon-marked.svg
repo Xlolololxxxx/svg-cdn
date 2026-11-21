@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CLIENT_RECON_MARKER_20261121 -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="300" height="200"
+     viewBox="0 0 300 200">
+  <!-- two hundred bytes of inert comment padding to make transformations obvious -->
+  <rect width="300" height="200" fill="#22c55e"/>
+  <circle cx="150" cy="100" r="60" fill="#0ea5e9"/>
+  <text x="20" y="40" font-size="14" font-family="sans-serif">marker-ABC-123</text>
+</svg>
